@@ -1,0 +1,7 @@
+{
+    "fromQueue": "<SOURCE QUEUE URL>",
+    "toQueue": "<TARGET QUEUE URL>",
+    "accessKeyId": "<accessKeyId>",
+    "secretAccessKey": "<secretAccessKey>",
+    "region": "us-east-1"
+}
